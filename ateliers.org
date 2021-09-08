@@ -89,8 +89,11 @@ présentation de l'architecture technique basée sur un socle libre et
 de la dernière interface totalement intégrée (Suite collaborative).
 
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/983/creator/369/hash/27f7103685682c79edfd15d54ececec0d66303f3][le salon de visioconférence BlueHats]]
-- 11h-11h45 : Intervention de X (à définir)
-- 11h45-12h30 : ...
+- 11h-11h45 : Intervention du Groupe Messagerie et Conférence à Distance, MTE/SNUM avec appui de la société Apitech
+* Rappel par un bref historique de ce qu'est la Messagerie Collaborative de l'Etat, Patrick Chaléat, Chef du Groupe
+* Vision stratégique de cette solution de messagerie OpenSource, Cyril Aeck, Adjoitn au chef du groupe
+* Démo de la solution colaborative conçue autour de cette écosystème, Julien Delamarre & Thomas Payen, DévOps/Team Leader Apitech
+- 11h45-12h30 : Session de questions réponses
 
 ** DONE 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
    SCHEDULED: <2021-06-25 ven. 11:00-12:30>
